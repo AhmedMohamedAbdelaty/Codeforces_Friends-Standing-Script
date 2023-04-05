@@ -5,7 +5,7 @@ change standings button to go to friends standings
 
 ## Screenshots
 
-![1](https://user-images.githubusercontent.com/73834838/229943560-7f7a4731-6c40-45f9-b290-71cf4bae1d25.png)
+![1](https://user-images.githubusercontent.com/73834838/229955390-322d9ac3-bbaa-4390-9ecd-b7a0d1f867b9.png)
 
 
 
